@@ -23,6 +23,10 @@ body{
     margin-top: 10px;
 }
 
+.header img {
+    width: 60px;
+}
+
 .header h1 {
     color: #fff;
     font-family: 'Montserrat', sans-serif;

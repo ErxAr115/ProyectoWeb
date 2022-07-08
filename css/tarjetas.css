@@ -5,6 +5,14 @@ img {
     height: 387px;
 }
 
+h1 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
 .contenedor {
     width: 100%;
     max-width: 1200px;
@@ -42,11 +50,4 @@ img {
     font-weight: 500;
     text-decoration: none;
     color: #FE805C;
-}
-
-h1 {
-    text-align: center;
-    margin-top: 20px;
-    font-family: 'Montserrat', sans-serif;
-    color: #fff;
 }
