@@ -16,12 +16,13 @@ img {
 .contenedor {
     width: 100%;
     max-width: 1200px;
-    height: 100px;
+    height: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .contenedor .card {
